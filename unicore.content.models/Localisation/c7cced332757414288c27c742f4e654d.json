@@ -1,0 +1,17 @@
+{
+  "uuid": "c7cced332757414288c27c742f4e654d", 
+  "logo_image_host": "http://thumbor.unicore.io", 
+  "locale": "nep_NP", 
+  "image": "e5044456f68f4b448474081ee8f53f99", 
+  "logo_text": "", 
+  "logo_image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "logo_description": "", 
+  "image_host": "http://thumbor.unicore.io"
+}
