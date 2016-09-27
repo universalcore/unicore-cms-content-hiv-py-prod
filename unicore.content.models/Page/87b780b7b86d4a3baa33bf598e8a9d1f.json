@@ -5,13 +5,13 @@
   "title": "Amour, relations, sexe, VIH et autres questions difficiles", 
   "primary_category": "2ce8ac086fd1429f985efb201a1db385", 
   "created_at": "2015-10-06T21:18:37+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-05-16T22:50:31.745459+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T12:35:27.001144+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,9 +22,9 @@
   "source": "810352a6156549b0b1df8d2f188ec2c0", 
   "featured": true, 
   "author_tags": [], 
-  "image": "8f722c51407143f1b0b5d68d8ceae747", 
+  "image": "a1aad9290952498dbdd004f3eed086f1", 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "amour-relations-sexe-vih-et-autres-questions-difficiles", 
   "uuid": "87b780b7b86d4a3baa33bf598e8a9d1f"
