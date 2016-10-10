@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Get free HIV testing & counselling today", 
+  "language": "eng_GB", 
+  "title": "[Local HIV Testing & Counselling Hotline]", 
+  "primary_category": null, 
+  "created_at": "2015-09-14T04:32:31+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-09-22T16:33:42.463258+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "93e43c57968341b88af478cab8699bfe"
+  ], 
+  "id": null, 
+  "content": "[Brief description of services] Call or text: [contact info].\r\n\r\n**Related Info:**", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "1f74d8b8e9f446a6a5e0696080ca1635", 
+  "published": null, 
+  "position": 38, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "local-hiv-testing-counselling-hotline", 
+  "uuid": "d95c1f1ba6944d778b0047b50706896b"
+}
